@@ -1,8 +1,7 @@
 # 🌟 Review Sentiment Analysis - Analyse des Sentiments des Avis 📝📊
 
 Ce projet vise à analyser les avis des internautes et à classifier leurs sentiments en **positif** ou **négatif** en utilisant des modèles d'apprentissage automatique et de NLP (Traitement du Langage Naturel).
-
-🚀 **Basé sur un dataset de Kaggle :** [`DATASET.csv`](https://www.kaggle.com/) (ajoutez le lien exact du dataset)
+Télécharger le notebook pour voir les étapes.
 
 ---
 
@@ -18,7 +17,7 @@ L'objectif est de créer un modèle capable de prédire si un avis est **positif
 ---
 
 ## 📊 **À propos du Dataset**
-Le dataset utilisé (`DATASET.csv`) contient des avis d'internautes avec les colonnes suivantes :
+Le dataset utilisé contient des avis d'internautes avec les colonnes suivantes :
 
 - **Review (Texte)** : Le commentaire laissé par l'utilisateur.  
 - **Sentiment (Label)** : La classification du sentiment (`positif` ou `négatif`).  
